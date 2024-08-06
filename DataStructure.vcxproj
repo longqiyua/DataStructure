@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\桌面\二叉链表树.cpp" />
     <ClCompile Include="二叉树.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
