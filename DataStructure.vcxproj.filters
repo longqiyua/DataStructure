@@ -15,10 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="完全二叉树.cpp">
+    <ClCompile Include="完全二叉树-顺序树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="一般二叉树-二叉链表树.cpp">
+    <ClCompile Include="一般二叉树-顺序表+链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="完全二叉树-链表树%28应用-二叉链表树%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="一般二叉树-顺序表+顺序表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="一般二叉树-链表+链表（二叉链表树).cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
