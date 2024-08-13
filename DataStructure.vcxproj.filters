@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="二叉树.cpp">
+    <ClCompile Include="完全二叉树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\桌面\二叉链表树.cpp">
+    <ClCompile Include="一般二叉树-二叉链表树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
