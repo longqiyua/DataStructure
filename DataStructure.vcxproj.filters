@@ -30,5 +30,17 @@
     <ClCompile Include="一般二叉树-链表+链表（二叉链表树).cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="依据大小返回判断符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="单链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="击鼓传花.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="顺序表-逆置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
